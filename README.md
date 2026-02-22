@@ -33,7 +33,6 @@ Women's Studies + CISE at UF, with a tendency to end up doing research, design, 
 ![C++](https://img.shields.io/badge/C++-3d2f1f?style=flat-square&logo=cplusplus&logoColor=D4A96A)
 ![HTML](https://img.shields.io/badge/HTML-3d2f1f?style=flat-square&logo=html5&logoColor=D4A96A)
 ![CSS](https://img.shields.io/badge/CSS-3d2f1f?style=flat-square&logo=css3&logoColor=D4A96A)
-![JavaScript](https://img.shields.io/badge/JavaScript-3d2f1f?style=flat-square&logo=javascript&logoColor=D4A96A)
 
 **tools & platforms**
 
