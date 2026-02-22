@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=200&section=header&text=jessie%20lin&fontSize=52&fontColor=F5EFE6&fontAlignY=40&desc=developer%20%E2%80%A2%20researcher%20%E2%80%A2%20creative&descAlignY=60&descSize=15&animation=fadeIn&fontStyle=italic" width="100%"/>
 
 <!-- Typing SVG in earthy tone -->
-<img src="https://readme-typing-svg.demolab.com?font=Lora&size=15&pause=1200&color=9B7653&center=true&vCenter=true&width=520&lines=UF+Women%27s+Studies+%2B+CISE+Minor+%F0%9F%8C%BF;Precision+Ag+Researcher;Design+meets+code+meets+curiosity;Always+in+migration+%E2%80%94+always+landing+somewhere+new+%F0%9F%90%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Lora&size=15&pause=1200&color=9B7653&center=true&vCenter=true&width=520&lines=UF+Women%27s+Studies+%2B+CISE+Minor+%F0%9F%8C%BF;Design+meets+code+meets+curiosity;Always+in+migration+%E2%80%94+always+landing+somewhere+new+%F0%9F%90%A6" alt="Typing SVG" />
 
 </div>
 
