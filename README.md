@@ -52,7 +52,7 @@ Women's Studies + CISE at UF, with a tendency to end up doing research, design, 
 
 ### ✦ currently learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript%20%29-4a3728?style=flat-square&logo=javascript&logoColor=A8C5A0)
+![JavaScript](https://img.shields.io/badge/JavaScript-4a3728?style=flat-square&logo=javascript&logoColor=A8C5A0)
 ![Web Dev](https://img.shields.io/badge/Web%20Development-4a3728?style=flat-square&logo=vercel&logoColor=A8C5A0)
 
 
